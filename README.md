@@ -37,7 +37,7 @@ Audio | Realtek ALC255
 
 # What doesn't work
 
-* Battery Status(I don't try to fix.)
+* Battery Status(I didn't try to fix.)
 * NVIDIA Optimus (impossible to get working at the moment)
 
 
