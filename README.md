@@ -1,4 +1,4 @@
-# Asus ROG GL502VT Hackintosh macOS Big SUR wıth OPENCORE
+# Asus ROG GL502VT Hackintosh macOS Big SUR with OPENCORE
 
 This is a guide to hackintoshing the ASUS ROG GL502VT on macOS Big SUR.
 
