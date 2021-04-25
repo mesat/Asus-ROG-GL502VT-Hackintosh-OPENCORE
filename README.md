@@ -1,4 +1,4 @@
-# Asus ROG GL502VT Hackintosh macOS Big SUR wıth OPENCORE
+# Asus ROG GL502VT Hackintosh macOS Big SUR with OPENCORE
 
 This is a guide to hackintoshing the ASUS ROG GL502VT on macOS Big SUR.
 
@@ -37,7 +37,7 @@ Audio | Realtek ALC255
 
 # What doesn't work
 
-* Battery Status(I don't try to fix.)
+* Battery Status(I didn't try to fix.)
 * NVIDIA Optimus (impossible to get working at the moment)
 
 
