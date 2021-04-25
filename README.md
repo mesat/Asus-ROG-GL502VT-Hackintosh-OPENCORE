@@ -31,7 +31,7 @@ Audio | Realtek ALC255
 * Keyboard Backlighting (ASUS SMC: https://github.com/hieplpvip/AsusSMC)
 * Ethernet (LAN)
 * WiFi(https://github.com/OpenIntelWireless/)
-  Install HeliPort to your OS : (https://github.com/OpenIntelWireless/HeliPort)
+  Install HeliPort to your macOS : (https://github.com/OpenIntelWireless/HeliPort)
 * UVC HD Webcam
 * Speaker + Internal Microphone ( ALCID = 3,  your alcid may be different :https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#finding-your-layout-id)
 
@@ -42,3 +42,19 @@ Audio | Realtek ALC255
 
 
 I followed the Dortania Guides: https://dortania.github.io/OpenCore-Install-Guide/ please look at it for any issues
+
+Create your own Mac Serial Number:
+
+  On command line:
+  * git clone https://github.com/corpnewt/GenSMBIOS  # You can download instead.
+  * cd GenSMBIOS
+  * chmod +x GenSMBIOS.command
+  * - Run the program :
+  * ./GenSMBIOS.command
+  * - Pick option 1 first,
+  * - Then 2 to select your config.plist (drag and drop)
+  * - Then 3 and type MacBookPro13,3
+  * - Then 4 , 
+  * - Now your Serials updated. Pick option 5 to see results.
+
+
