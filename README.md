@@ -22,7 +22,6 @@ Audio | Realtek ALC255
 # What works
 
 * Intel HD 530
-* HDMI
 * Bluetooth
 * All USB ports
 * Keyboard
@@ -38,6 +37,7 @@ Audio | Realtek ALC255
 # What doesn't work
 
 * Battery Status(I didn't try to fix.)
+* HDMI (Not tested, please notify me if you test it.)
 * NVIDIA Optimus (impossible to get working at the moment)
 
 
